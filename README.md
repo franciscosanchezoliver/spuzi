@@ -1,8 +1,6 @@
 # :construction_worker: Francisco Sánchez Oliver. 
 ## Software/Big Data Engineer
-
-## :books: Education 
-Graduated in Software Engineering. University of Almería 2017
+``Graduated in Software Engineering. University of Almería 2017``
 
 ##  :wrench: Working Experience :hammer:
 
