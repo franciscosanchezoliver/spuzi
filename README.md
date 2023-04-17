@@ -1,28 +1,57 @@
-- Recuperamos el nombre del dispositivo (pendrive en mi caso)
-	sudo fdisk -l
+# :construction_worker: Francisco Sánchez Oliver. 
+## Software/Big Data Engineer
 
-  Esto me dio para el pen el siguiente resultado
+## :books: Education 
+Graduated in Software Engineering. University of Almería 2017
 
-=================
-isk /dev/sdb: 14.46 GiB, 15514730496 bytes, 30302208 sectors
-Disk model: USB DISK 2.0    
-Units: sectors of 1 * 512 = 512 bytes
-Sector size (logical/physical): 512 bytes / 512 bytes
-I/O size (minimum/optimal): 512 bytes / 512 bytes
-Disklabel type: dos
-Disk identifier: 0x00224e0b
+##  :wrench: Working Experience :hammer:
 
-Device     Boot Start      End  Sectors  Size Id Type
-/dev/sdb1  *     2048 30302207 30300160 14.5G  c W95 FAT32 (LBA)
-=================
+### **[JLL, Jones Lang LaSalle Incorporated](https://en.wikipedia.org/wiki/JLL_(company))** 
+Currently working here from 09/2020 as **Big Data Engineer**
+- Data ingestion.
+- Big Data processing with Spark and Python.
+- Azure
+- Databricks
+- Unit Testing
+- API development
+- Scrum
 
-Vemos como linux indentifica la memoria como "/dev/sdb".
+### **[Bankinter](https://es.wikipedia.org/wiki/Bankinter)**
+from 07/2019 to 08/2022 as **Big Data Engineer**
+- Data ingestion.
+- Permissions management.
+- Big Data processing with Spark.
+- Creation of data pipelines with Spark, Python and Kedro.
+- Data analysis and reporting: SQL, Hive, Impala, Jupyter Notebooks.
+- Code improvements, scalability, efficiency, maintainability.
+- Creation of a programming standard for the department.
+- Monitoring the correct use of Git in department.
+- Deployment to production environment using Jenkins, Docker and own tools.
+- Maintenance of legacy programs.
+- Management of small teams with Scrum, Jira
 
-Para recuperar los archivos ejecutamos el siguiente comando
-sudo foremost -t all -i /dev/sdb -o ~/un_directorio_para_recuperar
+### **[ATOS](https://en.wikipedia.org/wiki/Atos)**
+from 10/2018 to 07/2019 as **Full Stack Developer** \
+Project: Olympic Games Tokio 2020\
+Software engineer for the Tokyo 2020 Olympic Games. Making developments that involve both the front and the back.
+Technologies used: Java, HTML, CSS, Javascript, Ajax, JQuery, Bootstrap, XML, Json.
 
--t all: quiere decir que recupere todo tipo de archivos. Foremost puede recuperar un monton de tipos de archivos, podemos ver o aniadir los tipos de archivos que queremos recuperar en el siguiente archivo: /etc/foremost.conf
 
--i /dev/sdb: aqui indicamos el dispositivo del que queremos recuperar los archivos.
+### **[Mundo Deportivo](https://en.wikipedia.org/wiki/Mundo_Deportivo)**
+from 05/2018 to 10/2018 as **BackEnd Developer**
+Software engineer for a mass-media developing mostly in the back with: Java, Springboot, Docker, Git, Jenkins, Junit, Couchbase.
 
--o ~/un_directorio_para_recuperar: aqui se pondra la informacion que se haya podido recuperar
+### **[Indra](https://en.wikipedia.org/wiki/Indra_Sistemas)**
+from 11/2017 to 10/2018 as **FrontEnd Developer**
+Front-end developer for the financial sector (core banking), using mostly Javascript and Java.
+
+### **[University of Almeria](https://en.wikipedia.org/wiki/University_of_Almer%C3%ADa)**
+from 03/2017 to 11/2017 as **Database Admin**
+Admin of an Oracle database.
+Development of apps with vba for Access and Excel.
+
+### [scholarship - Talentum Telefonica]()
+from 03/2016 to 10/2017 as **Full Stack Developer and Android Developer**
+Develop a web page with PHP and Drupal.
+Development of an AndroidTV application using Android with Java, Retrofit and SQL.
+
