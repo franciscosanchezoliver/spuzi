@@ -6,13 +6,11 @@
 
 ### **[JLL, Jones Lang LaSalle Incorporated](https://en.wikipedia.org/wiki/JLL_(company))** 
 Currently working here from 09/2020 as **Big Data Engineer**
-- Data ingestion.
-- Big Data processing with Spark and Python.
+- Spark
+- Python
+- Scala
 - Azure
 - Databricks
-- Unit Testing
-- API development
-- Scrum
 
 ### **[Bankinter](https://es.wikipedia.org/wiki/Bankinter)**
 from 07/2019 to 08/2022 as **Big Data Engineer**
