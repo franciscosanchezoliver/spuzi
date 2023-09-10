@@ -5,7 +5,7 @@
 ##  :wrench: Working Experience :hammer:
 
 ### **[JLL](https://en.wikipedia.org/wiki/JLL_(company))** 
-Currently working here from 09/2020 as **Big Data Engineer**
+Currently working here from 09/2022 as **Big Data Engineer**
 - Spark
 - Python
 - Scala
