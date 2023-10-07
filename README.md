@@ -1,6 +1,11 @@
-# :construction_worker: Francisco Sánchez Oliver. 
+# 🤖 Francisco Sánchez Oliver :computer:
+<img src="https://images.squarespace-cdn.com/content/v1/5c299b57e2ccd1899549dc84/1599243357763-V6YTH42Z1WEAFIYBGDAQ/8mUuzCn.gif" alt="">
+
 ## Software/Big Data Engineer
 ``Graduated in Software Engineering. University of Almería 2017``
+
+
+
 
 ##  :wrench: Working Experience :hammer:
 
